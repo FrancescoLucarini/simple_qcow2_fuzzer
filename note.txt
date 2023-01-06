@@ -1,3 +1,6 @@
 Tested on last version of Qemu build with Asan...(Asan quite useless only produces false positives)
 Also the path of qemu-img would be different from yours so if you wanna use it change the path
 The test image on fuzz.py "cirros...." is just a sample just to get radamsa do the work
+
+
+This little project as useless as it can be will be updated discontinuously
